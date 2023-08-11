@@ -1,16 +1,24 @@
-### Hi there 👋
+# ¡Hola, soy [Tu Nombre]! 👋
 
-<!--
-**moisesogando/moisesogando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ingeniero en Sistemas graduado de la PUCMM 🎓. Apasionado por el desarrollo web y móvil 🌐📱. Amante de los deportes ⚽ y la tecnología ❤️. Creando soluciones con pasión y colaboración 🚀🤝.
 
-Here are some ideas to get you started:
+## Habilidades y Tecnologías
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Desarrollo web: HTML, CSS, JavaScript
+- Desarrollo móvil: React Native
+- Herramientas: Git, VS Code
+- Trabajo en Equipo y Organización 💼
+
+## Proyectos Destacados
+
+- [Nombre del Proyecto 1](enlace-al-proyecto1) - Breve descripción.
+- [Nombre del Proyecto 2](enlace-al-proyecto2) - Breve descripción.
+
+## Encuéntrame en la Web 🌐
+
+- LinkedIn: [tu-perfil-de-LinkedIn](enlace-a-tu-perfil-de-LinkedIn)
+- Twitter: [@tu-usuario-de-Twitter](enlace-a-tu-usuario-de-Twitter)
+- Sitio web: [tu-sitio-web-personal](enlace-a-tu-sitio-web-personal)
+
+¡Conéctate conmigo para hablar sobre tecnología, proyectos emocionantes y más! 🤗
+
