@@ -8,6 +8,7 @@ Amante de los deportes ⚽ y la tecnología ❤️.
 
 Creando soluciones con pasión y colaboración 🚀🤝.
 
+<!--
 ## Habilidades y Tecnologías
 
 - Desarrollo web: HTML, CSS, JavaScript
@@ -16,7 +17,7 @@ Creando soluciones con pasión y colaboración 🚀🤝.
 - Herramientas: Git, VS Code, Visual Studio, SQL Server Mangement Studio
 - Trabajo en Equipo y Organización 💼
 
-<!--
+
 ## Proyectos Destacados
 
 - [Nombre del Proyecto 1](enlace-al-proyecto1) - Breve descripción.
