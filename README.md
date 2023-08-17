@@ -1,6 +1,6 @@
 # ¡Hola, soy Moisés Ogando! 👋
 
-Ingeniero en Sistemas graduado de la PUCMM 🎓. 
+<!--Ingeniero en Sistemas graduado de la PUCMM 🎓. -->
 
 Apasionado por el desarrollo web y móvil 🌐📱. 
 
