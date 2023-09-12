@@ -2,11 +2,13 @@
 
 <!--Ingeniero en Sistemas graduado de la PUCMM 🎓. -->
 
+<!--
 Apasionado por el desarrollo web y móvil 🌐📱. 
 
 Amante de los deportes ⚽ y la tecnología ❤️. 
 
 Creando soluciones con pasión y colaboración 🚀🤝.
+-->
 
 <!--
 ## Habilidades y Tecnologías
@@ -29,6 +31,7 @@ Creando soluciones con pasión y colaboración 🚀🤝.
 - Twitter: [@tu-usuario-de-Twitter](enlace-a-tu-usuario-de-Twitter)
 - Sitio web: [tu-sitio-web-personal](enlace-a-tu-sitio-web-personal)
 -->
-
+<!--
 ¡Conéctate conmigo para hablar sobre tecnología, proyectos emocionantes y más! 🤗
+-->
 
