@@ -17,11 +17,12 @@ Creando soluciones con pasión y colaboración 🚀🤝.
 - Herramientas: Git, VS Code, Visual Studio, SQL Server Mangement Studio
 - Trabajo en Equipo y Organización 💼
 
-
+<!--
 ## Proyectos Destacados
 
 - [Nombre del Proyecto 1](enlace-al-proyecto1) - Breve descripción.
 - [Nombre del Proyecto 2](enlace-al-proyecto2) - Breve descripción.
+-->
 
 <!--
 ## Encuéntrame en la Web 🌐
