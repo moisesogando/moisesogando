@@ -13,7 +13,7 @@ Creando soluciones con pasión y colaboración 🚀🤝.
 
 - Desarrollo web: HTML, CSS, JavaScript
 - Desarrollo móvil: React Native, Flutter
-- Otras: SQL, MongoDB, Node.js, C#, .NET
+- Otras: SQL, MongoDB, Node.js, C#, .NET, PHP, Laravel
 - Herramientas: Git, VS Code, Visual Studio, SQL Server Mangement Studio
 - Trabajo en Equipo y Organización 💼
 
