@@ -1,33 +1,67 @@
-# ¡Hola, soy Moisés Ogando! 👋
+# 👋 Hi, I'm Moisés Ogando!
 
-Ingeniero en Sistemas graduado de la PUCMM 🎓.
+🎓 **Computer Systems Engineer** graduated from **PUCMM** (Pontificia Universidad Católica Madre y Maestra).  
+💻 Passionate about **web and mobile development**, focused on building efficient and user-friendly solutions.  
+🚀 Driven by innovation, collaboration, and continuous learning.  
+⚽ Sports enthusiast and tech lover who enjoys solving real-world problems.
 
-Apasionado por el desarrollo web y móvil 🌐📱. 
+---
 
-Amante de los deportes ⚽ y la tecnología ❤️. 
+## 🛠️ Skills & Technologies
 
-Creando soluciones con pasión y colaboración 🚀🤝.
-
-
-## Habilidades y Tecnologías
-
-- Desarrollo web: HTML, CSS, JavaScript
-- Desarrollo móvil: React Native, Flutter
-- Otras: SQL, MongoDB, Node.js, C#, .NET, PHP, Laravel
-- Herramientas: Git, VS Code, Visual Studio, SQL Server Mangement Studio
-- Trabajo en Equipo y Organización 💼
-
+### 💻 Web Development
+- HTML5, CSS3, JavaScript (ES6+)
+- PHP, Laravel
+- Node.js
 <!--
-## Proyectos Destacados
+### 📱 Mobile Development
+- React Native
+- Flutter
+-->
+### 🗃️ Databases
+- SQL (MySQL, PostgreSQL)
+- MongoDB
 
-- [Nombre del Proyecto 1](enlace-al-proyecto1) - Breve descripción.
-- [Nombre del Proyecto 2](enlace-al-proyecto2) - Breve descripción.
+### 🔧 Tools & Environments
+- Git & GitHub
+- Visual Studio Code, Visual Studio
+- SQL Server Management Studio
+
+### 🧰 Other Languages & Frameworks
+- C#, .NET
+- RESTful APIs
+- Docker (basic)
+
+### 🤝 Soft Skills
+- Effective communication
+- Teamwork & collaboration
+- Organization & leadership
+
+---
+
+## 📈 Currently Exploring
+
+- 🧠 Scalable architectures and clean code practices
+- ☁️ DevOps, automation, and cloud deployment strategies
+- 🔍 Modern frameworks and performance optimization
+
+---
+
+## 📫 Let's Connect!
+
+- ✉️ moisesogando10@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/moisesogando)  
+<!-- 
+- 🌐 [Portfolio (optional)](https://your-portfolio.dev) 
 -->
 
-<!--
-## Encuéntrame en la Web 🌐
+---
 
-- LinkedIn: [tu-perfil-de-LinkedIn](enlace-a-tu-perfil-de-LinkedIn)
-- Twitter: [@tu-usuario-de-Twitter](enlace-a-tu-usuario-de-Twitter)
-- Sitio web: [tu-sitio-web-personal](enlace-a-tu-sitio-web-personal
--->
+> “Technology should be an extension of our humanity, not a replacement.”  
+> &mdash; *Moisés Ogando*
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moisesogando&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
